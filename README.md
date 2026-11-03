@@ -2,7 +2,7 @@
 
 <table>
 <tr>
-<td width="70%" valign="middle">
+<td width="68%" valign="middle">
 
 I'm a **software engineer, university educator, and Linux enthusiast**.
 
@@ -14,9 +14,9 @@ I'm a **software engineer, university educator, and Linux enthusiast**.
 *Building, teaching, experimenting, and learning.*
 
 </td>
-<td width="30%" align="center" valign="middle">
+<td width="32%" align="center" valign="middle">
 
-<img src="https://raw.githubusercontent.com/darkfoxus/public_web_assets/main/linux-counter.png" width="160" alt="Linux Counter" />
+<img src="https://raw.githubusercontent.com/darkfoxus/public_web_assets/main/linux-counter.png" width="100%" alt="Linux Counter" />
 
 </td>
 </tr>

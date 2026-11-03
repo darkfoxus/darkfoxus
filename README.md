@@ -21,3 +21,4 @@ I'm a **software engineer, university educator, and Linux enthusiast**.
 </td>
 </tr>
 </table>
+<sub>💀 "Mess with the best, die like the rest."</sub>
